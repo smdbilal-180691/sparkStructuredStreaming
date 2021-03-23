@@ -19,6 +19,7 @@
       <name>Scala-Tools Maven2 Repository</name>
       <url>http://scala-tools.org/repo-releases</url>
     </repository>
+    </repositories>
     
 
   <pluginRepositories>
