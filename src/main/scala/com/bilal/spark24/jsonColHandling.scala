@@ -2,7 +2,6 @@ package com.bilal.spark24
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.types._
 import org.apache.spark.sql.functions._
-import scala.annotation.tailrec
 import org.apache.spark.sql.Column
 
 
