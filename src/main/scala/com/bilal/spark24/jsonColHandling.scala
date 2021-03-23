@@ -42,6 +42,7 @@ object jsonColHandling {
     })
   }
     
+    
     /**
      * Method 1: 
      * Get the nested json column as normal json using json_tuple
